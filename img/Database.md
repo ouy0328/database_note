@@ -33,7 +33,7 @@
 
 ### 为什么要使用数据库
 
-- ![image-20221214145842551](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20221214145842551.png)
+- ![](https://cdn.jsdelivr.net/gh/ouy0328/note_picture/img/image-20221214145842551.png)
 - 数据独立以及高效访问
 - 减少应用开发时间
 - 保证数据完整性以及安全性
@@ -51,7 +51,7 @@
 
 ### 数据、数据模型、数据模式
 
-![image-20221214150758923](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20221214150758923.png)
+![](https://cdn.jsdelivr.net/gh/ouy0328/note_picture/img/image-20221214150758923.png)
 
 - 数据是用来描述现实世界各种事物的一种符号，是信息存在的形式。
 - 数据模型是用来描述数据的一组概念和定义。
@@ -62,7 +62,7 @@
 
 ### 数据库三级模式
 
-![image-20221215170529762](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20221215170529762.png)
+![](https://cdn.jsdelivr.net/gh/ouy0328/note_picture/img/image-20221215170529762.png)
 
 1. 物理模式：数据在物理磁盘上的存储方式
 2. 概念模式：数据的逻辑结构，与物理模式一一对应
@@ -70,7 +70,7 @@
 
 #### 案例：学生选课数据库
 
-![image-20221215170514587](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20221215170514587.png)
+![](https://cdn.jsdelivr.net/gh/ouy0328/note_picture/img/image-20221215170514587.png)
 
 - 概念模式
 
@@ -90,7 +90,7 @@
 
 ### 数据独立性
 
-![image-20221215170452488](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20221215170452488.png)
+![](https://cdn.jsdelivr.net/gh/ouy0328/note_picture/img/image-20221215170452488.png)
 
 - 基于数据库开发的应用程序可以与其数据的具体结构和储存方法相互隔离。
 - 数据的逻辑独立性：当数据的逻辑结构发生变化时，基于数据库开发的应用程序可以不受影响。
@@ -102,7 +102,7 @@
 
 ### 数据模型的发展历史
 
-![image-20221216102934070](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20221216102934070.png)
+![](https://cdn.jsdelivr.net/gh/ouy0328/note_picture/img/image-20221216102934070.png)
 
 无管理阶段（1960年之前）：用作科学计算
 
@@ -117,7 +117,7 @@
 
 ### 数据库管理系统体系结构的发展
 
-![image-20221216142559395](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20221216142559395.png)
+![](https://cdn.jsdelivr.net/gh/ouy0328/note_picture/img/image-20221216142559395.png)
 
 - 集中式数据库系统
 - 并行数据库系统
@@ -145,7 +145,7 @@
 
 ### 数据库应用领域的发展
 
-![image-20221216152724422](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20221216152724422.png)
+![](https://cdn.jsdelivr.net/gh/ouy0328/note_picture/img/image-20221216152724422.png)
 
 - OLTP：基于结构化的数据以事务型应用为主的应用领域（日常事务处理）
 - 工程数据库
@@ -160,7 +160,7 @@
 
 ### 什么是数据库系统
 
-![image-20221216152836585](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20221216152836585.png)
+![](https://cdn.jsdelivr.net/gh/ouy0328/note_picture/img/image-20221216152836585.png)
 
 应用程序 + DBMS（核心） + 数据库 + DBA（数据库管理员）
 
@@ -175,7 +175,7 @@
 
 ### 数据库系统的生命周期
 
-![image-20221216153613459](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20221216153613459.png)
+![](https://cdn.jsdelivr.net/gh/ouy0328/note_picture/img/image-20221216153613459.png)
 
 - 数据库系统的规划阶段
 - 数据库设计
