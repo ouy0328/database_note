@@ -33,7 +33,8 @@
 
 ### 为什么要使用数据库
 
-- ![](https://cdn.jsdelivr.net/gh/ouy0328/note_picture/img/image-20221214145842551.png)
+![](https://cdn.jsdelivr.net/gh/ouy0328/note_picture/img/image-20221214145842551.png)
+
 - 数据独立以及高效访问
 - 减少应用开发时间
 - 保证数据完整性以及安全性
